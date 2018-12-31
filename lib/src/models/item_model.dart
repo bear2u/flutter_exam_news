@@ -63,4 +63,11 @@ class ItemModel {
       "kids": jsonEncode(kids),
     };
   }
+
+  @override
+  String toString() {
+    return 'ItemModel{id: $id, deleted: $deleted, type: $type, by: $by, time: $time, text: $text, dead: $dead, parent: $parent, kids: $kids, url: $url, score: $score, title: $title, descendants: $descendants}';
+  }
+
+
 }
