@@ -3,8 +3,8 @@
 유데미 강좌를 보고 실습한 내용입니다. 
 
 
-[main](./Screenshot_1546244720.png)
-[sub](./Screenshot_1546244771.png)
+![main](./Screenshot_1546244720.png)
+![sub](./Screenshot_1546244771.png)
 
 - [강좌](https://www.udemy.com/dart-and-flutter-the-complete-developers-guide) 
 - [HackerNews Api](https://github.com/HackerNews/API)
